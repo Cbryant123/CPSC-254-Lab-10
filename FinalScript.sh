@@ -4,7 +4,7 @@
 echo "This is the Lab 10 Bash directory"
 
 # Key entering guidance
-echo "Please select the Number related to the menu area you want to access::"
+echo "Please select the Number related to the menu area you want to access:"
 echo "0 Exit"
 echo "1 Project Introduction"
 echo "2 File Integrity Check Helper"
